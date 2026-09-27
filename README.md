@@ -29,7 +29,17 @@ What draws me most to cybersecurity is the direct, tangible impact it has on pro
 ## How my Strengths, Values, and Interest Support the Security Goals of Organizations
 Organizations across industries — fintech, banking, healthcare, retail, and beyond — face growing threats from fraud, data breaches, and non-compliance penalties. My background positions me to support these goals in ways that go beyond typical entry-level technical hires. My transition from KYC and compliance into cybersecurity is not a departure from my current skill set — it is a natural extension of it. Organizations benefit most from security professionals who understand both the technical and human/regulatory sides of risk, and that intersection is exactly where my background and growing technical skills meet.
 
+## Projects
 
+| Project | What it covers |
+|---|---|
+| [Vulnerability Assessment](https://github.com/shaikhminhaz074/Vulnerability-Assessment) | Conducted a NIST SP 800-30–guided risk assessment of a database server; scored threats by Likelihood × Severity and recommended MFA, TLS encryption, and IP allow-listing to close the highest-risk gaps. |
+| [Least Privilege Incident Analysis](https://github.com/shaikhminhaz074/Least-Privilege-Incident-Analysis) | Mapped a real-world data leak to NIST CSF (PR.DS-5) and NIST SP 800-53 AC-6 (Least Privilege); performed root-cause analysis and wrote control-enhancement recommendations for non-technical stakeholders. |
+| [Access Controls Investigation](https://github.com/shaikhminhaz074/Access-Controls-Investigation) | Investigated an unauthorized payroll transaction via event-log analysis and directory cross-referencing; identified excessive-privilege and MFA gaps and recommended access-review controls. |
+| [Bank Risk Assessment](https://github.com/shaikhminhaz074/Bank-Risk-Assessment) | Built a NIST CSF-aligned risk register for a commercial bank scenario, scoring and prioritizing five risk categories using a Likelihood × Severity methodology. |
+| [Asset Inventory](https://github.com/shaikhminhaz074/Asset-Inventory) | Built an asset inventory and CIA-triad-based sensitivity classification for a home network environment. |
+| [File Permission in Linux](https://github.com/shaikhminhaz074/File-Permission-in-Linux) | Hands-on exercise applying Linux file permission and ownership fundamentals (chmod/chown, read-write-execute) as a practical extension of access-control principles. |
+| [Security Audit](https://github.com/shaikhminhaz074/Security-Audit) | Conducted an internal security and controls audit aligned to the NIST CSF Identify function; assessed compliance against PCI DSS, GDPR, and SOC 2, and delivered a prioritized executive remediation roadmap. |
 
 
 
